@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "bagisto-admin";
-    src: url("../fonts/bagisto-admin.woff?jwnnow") format("woff");
+    src: url("../fonts/bagisto-admin.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: block;
