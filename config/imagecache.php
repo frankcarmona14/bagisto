@@ -30,7 +30,7 @@ return [
      */
 
     'paths' => [
-        storage_path('app/public_html'),
+        storage_path('app/public'),
         public_path('storage'),
     ],
 
